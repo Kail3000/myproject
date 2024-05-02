@@ -1,0 +1,15 @@
+.carousel-item img {
+    width: 300px; /* Ширина зображення */
+    height: auto; /* Автоматична висота, щоб зберегти пропорції */
+}
+
+.carousel-control-prev,
+.carousel-control-next {
+    width: auto;
+}
+
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+    width: 30px; /* Розмір стрілок керування */
+    height: 30px; /* Розмір стрілок керування */
+}
